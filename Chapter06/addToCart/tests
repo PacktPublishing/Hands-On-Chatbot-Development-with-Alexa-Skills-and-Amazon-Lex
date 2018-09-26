@@ -1,0 +1,22 @@
+{ "currentIntent": { "confirmationStatus": "Denied" } }
+
+
+{ 
+    "currentIntent": { 
+        "confirmationStatus": "Confirmed",
+        "slots": {
+            "itemNumber": null
+        }
+    }
+}
+
+
+{
+    "currentIntent": {
+        "slots": {
+            "itemNumber": 1034
+        }
+    }
+}
+
+

@@ -1,0 +1,28 @@
+
+{ "currentIntent": { "confirmationStatus": "Denied" } }
+
+
+{ 
+    "currentIntent": { 
+        "confirmationStatus": "Confirmed",
+        "slots": { "deliveryAddress": null} 
+    }
+}
+
+
+{ 
+    "currentIntent": { 
+        "confirmationStatus": "None",
+        "slots": { "deliveryAddress": "123 imaginary street, fake town, madeupsville"}
+    },
+    "userId": "fakeUser"
+}
+
+
+{ 
+    "currentIntent": { 
+        "confirmationStatus": "None",
+        "slots": { "deliveryAddress": "123 imaginary street, fake town, madeupsville"}
+    },
+    "userId": ## paste your ID here
+}

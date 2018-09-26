@@ -1,0 +1,37 @@
+{
+    "currentIntent": {
+        "slots": {
+            "cartName": null
+        }
+    }
+}
+
+
+{
+    "currentIntent": {
+        "slots": {
+            "cartName": "personalShopping"
+        }
+    },
+    "userId": "asdasdasdasdasd"
+}
+
+
+{
+    "currentIntent": {
+        "slots": {
+            "cartName": "testCartSave"
+        }
+    },
+    "userId": ## valid userId
+}
+
+
+{
+    "currentIntent": {
+        "slots": {
+            "cartName": "testCartSave"
+        }
+    },
+    "userId": ## another valid userId
+}

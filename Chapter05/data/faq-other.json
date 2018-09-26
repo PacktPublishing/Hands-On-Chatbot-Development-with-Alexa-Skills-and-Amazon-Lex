@@ -1,0 +1,9 @@
+{
+    "userWorldwide": "CircleLoop will work in most countries around the world, providing you have a data or WiFi connection available. However, there are a small number of countries which block internet-based calling for either security or revenue-protection reasons. Internet-based calling is currently blocked in Azerbaijan, Belize, China, Iran, Jordan, Kuwait, Libya, North Korea, Oman, Pakistan, Qatar, Saudi Arabia, South Korea, Syria and UAE. You can still call these countries using CircleLoop, it’s just outbound calls that are blocked.",
+    "headsets": "Yes. CircleLoop supports USB/Bluetooth headsets. We can recommend phone headsets that have been fully tested with CircleLoop. Please note that we don't support traditional IP deskphones.",
+    "replaceExpenses": "Yes. We can save you some money. Your colleagues can simply add their business phone numbers to their own smartphones and computer systems to make and receive calls. There’s no longer any need for extra business phones or extra sim cards.",
+    "cancelExistingContract": "That's up to you. You don't need an existing landline or mobile contract to use CircleLoop. Of course, if your internet connection is provided through your landline or mobile, you’ll still need that.",
+    "dataUsage": "As a general guide, CircleLoop will use approx 1mb of data per minute. This can be variable, depending on which additional features you are using. CircleLoop’s data consumption is at most equivalent to most other IP or cloud-based systems.",
+    "noSignal": "If you don't have a data connection, your call can be automatically diverted to a mobile number. You can set this up in the mobile apps."
+
+}

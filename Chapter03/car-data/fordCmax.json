@@ -1,0 +1,9 @@
+{
+    "make": "Ford",
+    "model": "C-Max",
+    "rrp": 21700,
+    "fuelEcon": "55.4 mpg",
+    "dimensions": "4.380 m L x 1.828 m W x 1.626 m H",
+    "NCAPSafetyRating": "5 star",
+    "cargo": 432
+}

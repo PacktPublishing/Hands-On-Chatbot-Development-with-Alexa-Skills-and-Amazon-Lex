@@ -1,0 +1,97 @@
+{
+    "stock": [
+        { "itemNumber": 1000, "type": "trousers", "size": "small", "colour": "black", "length": "long", "stock": 3 },
+        { "itemNumber": 1001, "type": "trousers", "size": "small", "colour": "black", "length": "standard", "stock": 5 },
+        { "itemNumber": 1002, "type": "trousers", "size": "small", "colour": "black", "length": "short", "stock": 0 },
+        { "itemNumber": 1003, "type": "trousers", "size": "medium", "colour": "black", "length": "long", "stock": 2 },
+        { "itemNumber": 1004, "type": "trousers", "size": "medium", "colour": "black", "length": "standard", "stock": 8 },
+        { "itemNumber": 1005, "type": "trousers", "size": "medium", "colour": "black", "length": "short", "stock": 4 },
+        { "itemNumber": 1006, "type": "trousers", "size": "large", "colour": "black", "length": "long", "stock": 4 },
+        { "itemNumber": 1007, "type": "trousers", "size": "large", "colour": "black", "length": "standard", "stock": 4 },
+        { "itemNumber": 1008, "type": "trousers", "size": "large", "colour": "black", "length": "short", "stock": 1 },
+
+        { "itemNumber": 1009, "type": "shirt", "size": "small", "colour": "black", "stock": 6 },
+        { "itemNumber": 1010, "type": "shirt", "size": "medium", "colour": "black", "stock": 0 },
+        { "itemNumber": 1011, "type": "shirt", "size": "large", "colour": "black", "stock": 3 },
+
+        { "itemNumber": 1012, "type": "jacket", "size": "small", "colour": "black", "stock": 4 },
+        { "itemNumber": 1013, "type": "jacket", "size": "medium", "colour": "black", "stock": 6 },
+        { "itemNumber": 1014, "type": "jacket", "size": "large", "colour": "black", "stock": 8 },
+
+
+        { "itemNumber": 1015, "type": "trousers", "size": "small", "colour": "white", "length": "long", "stock": 0 },
+        { "itemNumber": 1016, "type": "trousers", "size": "small", "colour": "white", "length": "standard", "stock": 1 },
+        { "itemNumber": 1017, "type": "trousers", "size": "small", "colour": "white", "length": "short", "stock": 2 },
+        { "itemNumber": 1018, "type": "trousers", "size": "medium", "colour": "white", "length": "long", "stock": 2 },
+        { "itemNumber": 1019, "type": "trousers", "size": "medium", "colour": "white", "length": "standard", "stock": 1 },
+        { "itemNumber": 1020, "type": "trousers", "size": "medium", "colour": "white", "length": "short", "stock": 0 },
+        { "itemNumber": 1021, "type": "trousers", "size": "large", "colour": "white", "length": "long", "stock": 0 },
+        { "itemNumber": 1022, "type": "trousers", "size": "large", "colour": "white", "length": "standard", "stock": 3 },
+        { "itemNumber": 1023, "type": "trousers", "size": "large", "colour": "white", "length": "short", "stock": 1 },
+
+        { "itemNumber": 1024, "type": "shirt", "size": "small", "colour": "white", "stock": 14 },
+        { "itemNumber": 1025, "type": "shirt", "size": "medium", "colour": "white", "stock": 20 },
+        { "itemNumber": 1026, "type": "shirt", "size": "large", "colour": "white", "stock": 13 },
+
+        { "itemNumber": 1027, "type": "jacket", "size": "small", "colour": "white", "stock": 0 },
+        { "itemNumber": 1028, "type": "jacket", "size": "medium", "colour": "white", "stock": 2 },
+        { "itemNumber": 1029, "type": "jacket", "size": "large", "colour": "white", "stock": 2 },
+
+
+        { "itemNumber": 1030, "type": "trousers", "size": "small", "colour": "blue", "length": "long", "stock": 4 },
+        { "itemNumber": 1031, "type": "trousers", "size": "small", "colour": "blue", "length": "standard", "stock": 4 },
+        { "itemNumber": 1032, "type": "trousers", "size": "small", "colour": "blue", "length": "short", "stock": 3 },
+        { "itemNumber": 1033, "type": "trousers", "size": "medium", "colour": "blue", "length": "long", "stock": 3 },
+        { "itemNumber": 1034, "type": "trousers", "size": "medium", "colour": "blue", "length": "standard", "stock": 7 },
+        { "itemNumber": 1035, "type": "trousers", "size": "medium", "colour": "blue", "length": "short", "stock": 5 },
+        { "itemNumber": 1036, "type": "trousers", "size": "large", "colour": "blue", "length": "long", "stock": 3 },
+        { "itemNumber": 1037, "type": "trousers", "size": "large", "colour": "blue", "length": "standard", "stock": 1 },
+        { "itemNumber": 1038, "type": "trousers", "size": "large", "colour": "blue", "length": "short", "stock": 2 },
+
+        { "itemNumber": 1039, "type": "shirt", "size": "small", "colour": "blue", "stock": 7 },
+        { "itemNumber": 1040, "type": "shirt", "size": "medium", "colour": "blue", "stock": 8 },
+        { "itemNumber": 1041, "type": "shirt", "size": "large", "colour": "blue", "stock": 4 },
+
+        { "itemNumber": 1042, "type": "jacket", "size": "small", "colour": "blue", "stock": 1 },
+        { "itemNumber": 1043, "type": "jacket", "size": "medium", "colour": "blue", "stock": 5 },
+        { "itemNumber": 1044, "type": "jacket", "size": "large", "colour": "blue", "stock": 8 },
+
+
+        { "itemNumber": 1045, "type": "trousers", "size": "small", "colour": "red", "length": "long", "stock": 0 },
+        { "itemNumber": 1046, "type": "trousers", "size": "small", "colour": "red", "length": "standard", "stock": 1 },
+        { "itemNumber": 1047, "type": "trousers", "size": "small", "colour": "red", "length": "short", "stock": 0 },
+        { "itemNumber": 1048, "type": "trousers", "size": "medium", "colour": "red", "length": "long", "stock": 1 },
+        { "itemNumber": 1049, "type": "trousers", "size": "medium", "colour": "red", "length": "standard", "stock": 2 },
+        { "itemNumber": 1050, "type": "trousers", "size": "medium", "colour": "red", "length": "short", "stock": 0 },
+        { "itemNumber": 1051, "type": "trousers", "size": "large", "colour": "red", "length": "long", "stock": 1 },
+        { "itemNumber": 1052, "type": "trousers", "size": "large", "colour": "red", "length": "standard", "stock": 0 },
+        { "itemNumber": 1053, "type": "trousers", "size": "large", "colour": "red", "length": "short", "stock": 2 },
+
+        { "itemNumber": 1054, "type": "shirt", "size": "small", "colour": "red", "stock": 5 },
+        { "itemNumber": 1055, "type": "shirt", "size": "medium", "colour": "red", "stock": 8 },
+        { "itemNumber": 1056, "type": "shirt", "size": "large", "colour": "red", "stock": 4 },
+
+        { "itemNumber": 1057, "type": "jacket", "size": "small", "colour": "red", "stock": 2 },
+        { "itemNumber": 1058, "type": "jacket", "size": "medium", "colour": "red", "stock": 4 },
+        { "itemNumber": 1059, "type": "jacket", "size": "large", "colour": "red", "stock": 5 },
+
+
+        { "itemNumber": 1060, "type": "trousers", "size": "small", "colour": "pink", "length": "long", "stock": 0 },
+        { "itemNumber": 1061, "type": "trousers", "size": "small", "colour": "pink", "length": "standard", "stock": 0 },
+        { "itemNumber": 1062, "type": "trousers", "size": "small", "colour": "pink", "length": "short", "stock": 0 },
+        { "itemNumber": 1063, "type": "trousers", "size": "medium", "colour": "pink", "length": "long", "stock": 0 },
+        { "itemNumber": 1064, "type": "trousers", "size": "medium", "colour": "pink", "length": "standard", "stock": 0 },
+        { "itemNumber": 1065, "type": "trousers", "size": "medium", "colour": "pink", "length": "short", "stock": 0 },
+        { "itemNumber": 1066, "type": "trousers", "size": "large", "colour": "pink", "length": "long", "stock": 0 },
+        { "itemNumber": 1067, "type": "trousers", "size": "large", "colour": "pink", "length": "standard", "stock": 0 },
+        { "itemNumber": 1068, "type": "trousers", "size": "large", "colour": "pink", "length": "short", "stock": 0 },
+
+        { "itemNumber": 1069, "type": "shirt", "size": "small", "colour": "pink", "stock": 4 },
+        { "itemNumber": 1070, "type": "shirt", "size": "medium", "colour": "pink", "stock": 6 },
+        { "itemNumber": 1071, "type": "shirt", "size": "large", "colour": "pink", "stock": 5 },
+
+        { "itemNumber": 1072, "type": "jacket", "size": "small", "colour": "pink", "stock": 1 },
+        { "itemNumber": 1073, "type": "jacket", "size": "medium", "colour": "pink", "stock": 3 },
+        { "itemNumber": 1074, "type": "jacket", "size": "large", "colour": "pink", "stock": 4 }
+    ]
+}

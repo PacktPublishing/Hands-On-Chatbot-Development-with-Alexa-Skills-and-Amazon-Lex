@@ -1,0 +1,47 @@
+#messageArea {
+    background: #eee;
+    height: 93vh;
+    max-width: 450px;
+    overflow-y: scroll;
+}
+
+.message {
+    padding: 3%;
+    margin: 2%
+}
+
+.sendMessage {
+    right: -20%;
+    position: relative;
+    max-width: 70%;
+    background: blue;
+    color: white;
+    border-radius: 16px 16px 8px 16px
+}
+
+.receivedMessage {
+    background: #bbb;
+    position: relative;
+    left: 0;
+    max-width: 70%;
+    border-radius: 16px 16px 16px 8px;
+}
+
+#inputDivs {
+    width: 450px;
+    display: flex;
+}
+
+#textInput {
+    font-size: 15px;
+    flex-grow: 2;
+}
+
+#sendButton {
+    font-size: 15px;
+    border: 0px solid lightskyblue;
+    background: lightskyblue;
+    border-radius: 8px;
+    padding: 8px;
+    margin-left: 8px;
+}

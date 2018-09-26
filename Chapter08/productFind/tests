@@ -1,0 +1,59 @@
+no slots
+
+{
+  "currentIntent": {
+    "slots": { 
+        "type": null, 
+        "size": null, 
+        "colour": null, 
+        "length": null, 
+        "itemNumber": null 
+    }
+  }
+}
+
+all slots and confirmed
+
+{
+    "currentIntent": {
+        "slots": { 
+            "type": "shirt", 
+            "size": "medium", 
+            "colour": "blue", 
+            "length": null, 
+            "itemNumber": null 
+        },
+        "confirmationStatus": "Confirmed"
+    }
+}
+
+Denied
+
+{
+    "currentIntent": {
+        "slots": { 
+            "type": "shirt", 
+            "size": "medium", 
+            "colour": "blue", 
+            "length": null, 
+            "itemNumber": null 
+        },
+        "confirmationStatus": "Denied"
+    }
+}
+
+ItemNumber slot 
+
+{
+    "currentIntent": {
+        "slots": {
+        "type": null,
+        "size": null,
+        "colour": null,
+        "length": null,
+        "itemNumber": 1015
+        }
+    }
+}
+
+

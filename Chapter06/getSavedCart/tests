@@ -1,0 +1,25 @@
+{
+    "currentIntent": {
+        "slots": {
+            "cartName": null
+        }
+    }
+}
+
+
+{
+    "currentIntent": {
+        "slots": {
+            "cartName": "nonsense"
+        }
+    }
+}
+
+
+{
+    "currentIntent": {
+        "slots": {
+            "cartName": "testCartSave"
+        }
+    }
+}
